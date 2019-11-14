@@ -12,7 +12,7 @@
         <dependency>
             <groupId>com.rabbitmq</groupId>
             <artifactId>amqp-client</artifactId>
-            <version>5.3.0</version>
+            <version>5.4.0</version>
         </dependency>
         <!--谷歌gson序列号工具，对象转字符串使用 -->
         <dependency>
